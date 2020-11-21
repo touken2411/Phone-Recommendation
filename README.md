@@ -21,8 +21,8 @@ pip install Flask
 pip install underthesea
 pip install unidecode
 pip install scikit-learn==0.23.1
-pip install keras==2.2.5
-pip install TensorFlow==1.14
+pip install keras
+pip install TensorFlow==2.3.0
 ```
 
 ## 3. Run Backend:
